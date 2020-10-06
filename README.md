@@ -4,4 +4,4 @@
 ## 功能
 
 - 谷歌代理
-- github加速# google-extensions-
+- github加速
